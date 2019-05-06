@@ -10,7 +10,11 @@
 <head>
     <title>Title</title>
 </head>
-    <body>
-    <h1>hellow sample spring</h1>
-    </body>
+<body>
+<h1>hellow sample spring</h1>
+<form action="/springdemo/api/uploadFile" method="post" enctype="multipart/form-data">
+    <input name="myfile" id="myfile" type="file" />
+    <input type="submit" value="上传">
+</form>
+</body>
 </html>
