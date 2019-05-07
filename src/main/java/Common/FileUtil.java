@@ -24,7 +24,6 @@ import java.util.UUID;
 
 /**
  * 文件关联的共通函数
- * @author Yejing
  *
  */
 public class FileUtil {
