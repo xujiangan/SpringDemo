@@ -6,17 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe640db8-b00c-4425-a674-a01890af492b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Common/FileUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Common/FileUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/controller/FileController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/FileController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Common/FileUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Common/FileUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/controller/FileController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/FileController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/springdemo/WEB-INF/classes/Common/FileUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/springdemo/WEB-INF/classes/Common/FileUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/springdemo/WEB-INF/classes/controller/FileController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/springdemo/WEB-INF/classes/controller/FileController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/springdemo/WEB-INF/views/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/springdemo/WEB-INF/views/index.jsp" afterDir="false" />
-    </list>
+    <list default="true" id="fe640db8-b00c-4425-a674-a01890af492b" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -114,8 +104,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="439">
-              <caret line="24" column="24" lean-forward="true" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+            <state relative-caret-position="507">
+              <caret line="26" column="32" lean-forward="true" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -346,7 +336,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557122976114" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557220415350" />
     <property name="last_opened_file_path" value="E:/桌面工具/Git/mingw64/libexec/git-core/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -503,18 +493,19 @@
       <workItem from="1557136067745" duration="2189000" />
       <workItem from="1557191213090" duration="4703000" />
       <workItem from="1557197407092" duration="67000" />
+      <workItem from="1557220399756" duration="43000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20256000" />
+    <option name="totallyTimeSpent" value="20299000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49803922" visible="true" weight="0.12915327" />
-      <window_info id="Structure" order="1" sideWeight="0.5019608" side_tool="true" visible="true" weight="0.12915327" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4970588" visible="true" weight="0.13076098" />
+      <window_info id="Structure" order="1" sideWeight="0.5029412" side_tool="true" weight="0.13076098" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
@@ -701,8 +692,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
-          <caret line="24" column="24" lean-forward="true" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+        <state relative-caret-position="507">
+          <caret line="26" column="32" lean-forward="true" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
         </state>
       </provider>
     </entry>
