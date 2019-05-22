@@ -29,6 +29,13 @@ public class FileController {
         }
 
         return "index.jsp";
+    }
 
+
+    public String getUserToken(){
+
+        String token = "{'',''}";
+
+        return "";
     }
 }
